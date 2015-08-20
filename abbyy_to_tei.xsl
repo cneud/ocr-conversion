@@ -1,3 +1,4 @@
+<!-- Source: http://discoveryspace.upei.ca/islandlives.ca/node/130 -->
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://fr7.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" xpath-default-namespace="http://fr7.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
 

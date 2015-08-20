@@ -1,3 +1,4 @@
+<!-- Source: https://github.com/INL/OpenConvert -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:alto="http://www.loc.gov/standards/alto/ns-v3#" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="tei" xpath-default-namespace="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" version="2.0">
     <xsl:param name="generateIds">true</xsl:param>
     <xsl:param name="scale">1</xsl:param>

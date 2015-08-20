@@ -1,5 +1,5 @@
+<!-- Source: https://gist.github.com/tfmorris/5977784 -->
 <?xml version="1.0" ?>
-
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:abbyy="http://fr7.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
     <xsl:output method="xml" />
     <xsl:template match="abbyy:document">

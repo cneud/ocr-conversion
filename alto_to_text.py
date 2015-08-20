@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Open an ALTO (xml) file and print the text to stdout.
+# Source: https://github.com/KBNLresearch/europeananp-ner
 
 import os
 import sys

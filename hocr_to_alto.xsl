@@ -1,3 +1,4 @@
+<!-- source: https://github.com/ONB-RD/hOCRTools -->
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:o="http://www.onb.ac.at/lib/xslt" xmlns:a="http://www.loc.gov/standards/alto/ns-v2#" xmlns="http://www.loc.gov/standards/alto/ns-v2#" exclude-result-prefixes="xs o a" version="2.0">
 
