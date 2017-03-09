@@ -1,2 +1,2 @@
 # ocr-conversion-scripts
-Some scripts collected for OCR conversion between various formats (work in progress)
+Collected scripts and stylesheets for OCR conversion between various formats
