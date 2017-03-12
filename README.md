@@ -1,14 +1,14 @@
 OCR conversion scripts
 ======================
 
-Collected scripts and stylesheets for conversion between various OCR formats
+Collection of scripts and stylesheets for conversion between various OCR formats
 
 #### ABBYY
  * [`abbyy2hocr.xsl`](https://gist.github.com/tfmorris/5977784) - ABBYY FineReader XML to hOCR converter [@Rod Page](http://iphylo.blogspot.com/2011/07/correcting-ocr-using-hocr-firefox.html#comment-400434491)
  * [`teip5-v5.xsl`](http://discoveryspace.upei.ca/islandlives.ca/sites/discoveryspace.upei.ca.islandlives.ca/files/teip5-v5.xsl) - Transform ABBYY Finereader XML into TEI [@UPEI](http://discoveryspace.upei.ca/islandlives.ca/node/130)
  * [`ocr_to_teifacsimile.xsl`](https://github.com/emory-libraries/readux/blob/master/readux/books/ocr_to_teifacsimile.xsl) - Generate page-level TEI facsimile from Abbyy OCR xml or METS/ALTO [@readux](https://github.com/emory-libraries/readux)
  * [`AbbyyToAlto.php`](https://github.com/ironymark/AbbyyToAlto/blob/master/AbbyyToAlto.php) - Converter written in PHP5 to convert Abbyy FineReader XML into the ALTO XML [@ironymark](https://github.com/ironymark/AbbyyToAlto)
- * [`abbyy-to-alto`](https://github.com/Mewel/abbyy-to-alto) - Java library to convert abbyy.xml (v10) to alto.xml (v2) [@abbyy-to-alto](https://github.com/Mewel/abbyy-to-alto)
+ * [`AbbyyToAltoConverter.java`](https://github.com/Mewel/abbyy-to-alto) - Java library to convert abbyy.xml (v10) to alto.xml (v2) [@abbyy-to-alto](https://github.com/Mewel/abbyy-to-alto)
  
 #### ALTO
  * [`alto2tei.xsl`](https://github.com/INL/OpenConvert/blob/master/resources/xsl/alto2tei.xsl) - Output TEI from ALTO input format [@OpenConvert](https://github.com/INL/OpenConvert) 
@@ -26,6 +26,6 @@ Collected scripts and stylesheets for conversion between various OCR formats
  * [`hocr2text.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2text.xsl) Convert hOCR to plain text [@filak](https://github.com/filak/hOCR-to-ALTO)
  
 #### PAGE
- * [`prima-page-converter`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, and HOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
+ * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, and HOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
  * [`xml_to_box.xsl`](https://github.com/idhmc-tamu/eMOP/blob/master/xml_to_box.xsl) - Convert PAGE XML to Tesseract box file [@eMOP](https://github.com/idhmc-tamu/eMOP)
  * [`page_to_text.py`](https://github.com/cneud/page-to-text/blob/master/page_to_text.py) - Extracts the text from a PAGE file and writes it to stdout [@cneud](https://github.com/cneud/page-to-text)
