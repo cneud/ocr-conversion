@@ -26,8 +26,10 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`hocr2alto2.1.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2alto2.1.xsl) - Convert hOCR to ALTO 2.1 [@filak](https://github.com/filak/hOCR-to-ALTO)
  * [`hocr2tei.xsl`](https://github.com/TEIC/Hackathon/blob/master/DH2015/xsl/hocr2tei.xsl) - Stylesheet to take hOCR from Tesseract and produce basic TEI output [@DH2015](https://github.com/TEIC/Hackathon/tree/master/DH2015)
  * [`hocr2text.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2text.xsl) Convert hOCR to plain text [@filak](https://github.com/filak/hOCR-to-ALTO)
+ * [`HocrConverter.py`](https://github.com/jbrinley/HocrConverter/blob/master/HocrConverter.py) - Create a PDF from an hOCR file and an image [@jbrinley](https://github.com/jbrinley/HocrConverter)
  
 #### PAGE
  * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, and hOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
  * [`xml_to_box.xsl`](https://github.com/idhmc-tamu/eMOP/blob/master/xml_to_box.xsl) - Convert PAGE XML to Tesseract box file [@eMOP](https://github.com/idhmc-tamu/eMOP)
  * [`page_to_text.py`](https://github.com/cneud/page-to-text/blob/master/page_to_text.py) - Extracts the text from a PAGE file and writes it to stdout [@cneud](https://github.com/cneud/page-to-text)
+ * [`PageToPdfConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-to-pdf) - Convert PAGE XML files with layout and text content to PDF [@prima](https://github.com/PRImA-Research-Lab/prima-page-to-pdf)
