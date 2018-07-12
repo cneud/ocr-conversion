@@ -26,7 +26,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`hocr2alto2.0.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2alto2.0.xsl) - Convert hOCR to ALTO 2.0 [@filak](https://github.com/filak/hOCR-to-ALTO)
  * [`hocr2alto2.1.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2alto2.1.xsl) - Convert hOCR to ALTO 2.1 [@filak](https://github.com/filak/hOCR-to-ALTO)
  * [`hocr2tei.xsl`](https://github.com/TEIC/Hackathon/blob/master/DH2015/xsl/hocr2tei.xsl) - Convert hOCR from Tesseract to basic TEI output [@DH2015](https://github.com/TEIC/Hackathon/tree/master/DH2015)
-  * [`hocr2tei.xsl`](https://github.com/TEIC/Hackathon/blob/master/DH2015/xsl/hocr2tei.xsl) - Convert hOCR from Tesseract to basic TEI output from [@DH2015](https://github.com/TEIC/Hackathon/tree/master/DH2015) - updated by [@OCR-D](https://github.com/OCR-D)
+  * [`hocr2tei.xsl`](https://github.com/OCR-D/format-converters/blob/master/hocr2tei.xsl) - Convert hOCR from Tesseract to basic TEI output from [@DH2015](https://github.com/TEIC/Hackathon/tree/master/DH2015) - updated by [@OCR-D](https://github.com/OCR-D)
  * [`hocr2text.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/hocr2text.xsl) Convert hOCR to plain text [@filak](https://github.com/filak/hOCR-to-ALTO)
  * [`HocrConverter.py`](https://github.com/jbrinley/HocrConverter/blob/master/HocrConverter.py) - Create a PDF from an hOCR file and an image [@jbrinley](https://github.com/jbrinley/HocrConverter)
  
