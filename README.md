@@ -35,6 +35,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`xml_to_box.xsl`](https://github.com/idhmc-tamu/eMOP/blob/master/xml_to_box.xsl) - Convert PAGE XML to Tesseract box file [@eMOP](https://github.com/idhmc-tamu/eMOP)
  * [`page_to_text.py`](https://github.com/cneud/page-to-text/blob/master/page_to_text.py) - Extracts the text from a PAGE file and writes it to stdout [@cneud](https://github.com/cneud/page-to-text)
  * [`PageToPdfConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-to-pdf) - Convert PAGE XML files with layout and text content to PDF [@prima](https://github.com/PRImA-Research-Lab/prima-page-to-pdf)
+ * [`page2tei-0.xsl`](https://github.com/dariok/page2tei/blob/master/page2tei-0.xsl) - Convert PAGE XML to TEI [@dariok](https://github.com/dariok/page2tei)
  
 #### TEI
  * [`tei2txt.xsl`](https://github.com/haoess/dta-tools/blob/master/tei2txt/share/xslt/tei2txt.xsl) - Convert DTA TEI-P5 to plain text [@haoess](https://github.com/haoess/dta-tools)
