@@ -1,5 +1,5 @@
-OCR conversion scripts
-======================
+OCR conversion
+==============
 
 Collection of scripts and stylesheets for conversion between various OCR formats
 
