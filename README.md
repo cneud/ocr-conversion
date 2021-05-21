@@ -20,6 +20,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`alto2text.xsl`](https://github.com/filak/hOCR-to-ALTO/blob/master/alto2text.xsl) - Convert ALTO 2.0 / ALTO 2.1 to plain text [@filak](https://github.com/filak/hOCR-to-ALTO)
  * [`alto_ocr_text.py`](https://github.com/cneud/alto-ocr-text/blob/master/alto_ocr_text.py) - Extracts the text from an ALTO file and writes it to stdout [@cneud](https://github.com/cneud/alto-ocr-text)
  * [`ALTO2HTML.bat`](https://github.com/altomator/ALTO-HTML) - Batch script to convert ALTO files to HTML [@altomator](https://github.com/altomator/ALTO-HTML)
+ * [`dinglehopper-extract`](https://github.com/qurator-spk/dinglehopper) - Extracts the text from ALTO and PAGE XML files [@qurator-spk](https://github.com/qurator-spk/)
  
 #### hOCR
  * [`hOCR2ALTO.xsl`](https://github.com/ONB-RD/hOCRTools/blob/master/xsl/hOCR2ALTO.xsl) - Utilities to process and handle hOCR [@ONB-RD](https://github.com/ONB-RD/hOCRTools)
@@ -37,6 +38,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`PageToPdfConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-to-pdf) - Convert PAGE XML files with layout and text content to PDF [@prima](https://github.com/PRImA-Research-Lab/prima-page-to-pdf)
  * [`page2tei-0.xsl`](https://github.com/dariok/page2tei/blob/master/page2tei-0.xsl) - Convert PAGE XML to TEI [@dariok](https://github.com/dariok/page2tei)
  * [`PageToAlto.xsl`](https://github.com/Transkribus/TranskribusCore/blob/master/src/main/resources/xslt/PageToAlto.xsl) - Convert PAGE XML to ALTO [@Transkribus](https://github.com/Transkribus)
+ * [`dinglehopper-extract`](https://github.com/qurator-spk/dinglehopper) - Extracts the text from ALTO and PAGE XML files [@qurator-spk](https://github.com/qurator-spk/)
  
 #### TEI
  * [`tei2txt.xsl`](https://github.com/haoess/dta-tools/blob/master/tei2txt/share/xslt/tei2txt.xsl) - Convert DTA TEI-P5 to plain text [@haoess](https://github.com/haoess/dta-tools)
