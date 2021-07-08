@@ -6,6 +6,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
 #### ABBYY
  * [`abbyy2hocr.xsl`](https://gist.github.com/tfmorris/5977784) - ABBYY FineReader XML to hOCR converter [@Rod Page](http://iphylo.blogspot.com/2011/07/correcting-ocr-using-hocr-firefox.html#comment-400434491)
   * [`abbyy2hocr.xsl`](https://github.com/OCR-D/format-converters/blob/master/abbyy2hocr.xsl) - ABBYY FineReader XML to hOCR converter by [@Rod Page](http://iphylo.blogspot.com/2011/07/correcting-ocr-using-hocr-firefox.html#comment-400434491) - updated by [@OCR-D](https://github.com/OCR-D)
+  * [`abbyy-to-hocr`](https://git.archive.org/merlijn/archive-hocr-tools/-/blob/master/bin/abbyy-to-hocr) - ABBYY FineReader XML to hOCR converter by [@merlijn](https://git.archive.org/merlijn)
  * [`teip5-v5.xsl`](http://discoveryspace.upei.ca/islandlives.ca/sites/discoveryspace.upei.ca.islandlives.ca/files/teip5-v5.xsl) - Transform ABBYY Finereader XML into TEI [@UPEI](http://discoveryspace.upei.ca/islandlives.ca/node/130)
  * [`ABBYY_to_TEI_by_XMLReader.php`](http://able.myspecies.info/abbyy-xml-tei-xml) - Convert ABBYY XML to TEI using PHP's XMLReader [@able-project](http://able.myspecies.info/abbyy-xml-tei-xml)
  * [`ocr_to_teifacsimile.xsl`](https://github.com/emory-libraries/readux/blob/master/readux/books/ocr_to_teifacsimile.xsl) - Generate page-level TEI facsimile from Abbyy OCR xml or METS/ALTO [@readux](https://github.com/emory-libraries/readux)
