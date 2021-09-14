@@ -44,3 +44,6 @@ Collection of scripts and stylesheets for conversion between various OCR formats
 #### TEI
  * [`tei2txt.xsl`](https://github.com/haoess/dta-tools/blob/master/tei2txt/share/xslt/tei2txt.xsl) - Convert DTA TEI-P5 to plain text [@haoess](https://github.com/haoess/dta-tools)
  * [`tei2hocr.xsl`](https://github.com/jbaiter/tei2hocr/blob/master/tei2hocr.xsl) - Convert DTA TEI-P5 to hOCR [@jbaiter](https://github.com/jbaiter/tei2hocr)
+
+#### Other
+* [`iw2alto.xsl`](https://github.com/karkraeg/im2alto/blob/main/iw2alto.xsl) - Convert [ImageWare MyBib eL OCR](https://www.imageware.de/produkte/mybib-el-allgemein/) to ALTO [@karkraeg](https://github.com/karkraeg/im2alto)
