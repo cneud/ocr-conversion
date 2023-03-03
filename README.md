@@ -10,7 +10,7 @@ Collection of scripts and stylesheets for conversion between various OCR formats
  * [`teip5-v5.xsl`](http://discoveryspace.upei.ca/islandlives.ca/sites/discoveryspace.upei.ca.islandlives.ca/files/teip5-v5.xsl) - Transform ABBYY Finereader XML into TEI [@UPEI](http://discoveryspace.upei.ca/islandlives.ca/node/130)
  * [`ABBYY_to_TEI_by_XMLReader.php`](http://able.myspecies.info/abbyy-xml-tei-xml) - Convert ABBYY XML to TEI using PHP's XMLReader [@able-project](http://able.myspecies.info/abbyy-xml-tei-xml)
  * [`ocr_to_teifacsimile.xsl`](https://github.com/emory-libraries/readux/blob/master/readux/books/ocr_to_teifacsimile.xsl) - Generate page-level TEI facsimile from Abbyy OCR xml or METS/ALTO [@readux](https://github.com/emory-libraries/readux)
- * [`AbbyyToAlto.php`](https://github.com/ironymark/AbbyyToAlto/blob/master/AbbyyToAlto.php) - Converter written in PHP5 to convert Abbyy FineReader XML into the ALTO XML [@ironymark](https://github.com/ironymark/AbbyyToAlto)
+ * [`AbbyyToAlto.php`](https://github.com/ironymark/AbbyyToAlto/blob/master/AbbyyToAlto.php) - PHP5 to convert Abbyy FineReader XML into ALTO XML [@ironymark](https://github.com/ironymark/AbbyyToAlto)
  * [`AbbyyToAltoConverter.java`](https://github.com/Mewel/abbyy-to-alto) - Java library to convert abbyy.xml (v10) to alto.xml (v2) [@abbyy-to-alto](https://github.com/Mewel/abbyy-to-alto)
  
 #### ALTO
@@ -47,3 +47,4 @@ Collection of scripts and stylesheets for conversion between various OCR formats
 
 #### Other
 * [`iw2alto.xsl`](https://github.com/karkraeg/im2alto/blob/main/iw2alto.xsl) - Convert [ImageWare MyBib eL OCR](https://www.imageware.de/produkte/mybib-el-allgemein/) to ALTO [@karkraeg](https://github.com/karkraeg/im2alto)
+* [`transkribus-xslt`](https://gitlab.com/readcoop/transkribus/TranskribusCore/-/tree/master/src/main/resources/xslt) - Various stylesheets from Transkribus [@readcoop](https://gitlab.com/readcoop/)
