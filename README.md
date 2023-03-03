@@ -1,7 +1,9 @@
 OCR conversion
 ==============
 
-Collection of scripts and stylesheets for conversion between various OCR formats
+Collection of scripts and stylesheets for conversion between various OCR formats. 
+
+You may also want to check out the excellent [ocr-fileformat](https://github.com/UB-Mannheim/ocr-fileformat) by [@UB-Mannheim](https://github.com/UB-Mannheim).
 
 #### ABBYY
  * [`abbyy2hocr.xsl`](https://gist.github.com/tfmorris/5977784) - ABBYY FineReader XML to hOCR converter [@Rod Page](http://iphylo.blogspot.com/2011/07/correcting-ocr-using-hocr-firefox.html#comment-400434491)
