@@ -35,12 +35,13 @@ You may also want to check out the excellent [ocr-fileformat](https://github.com
  * [`HocrConverter.py`](https://github.com/jbrinley/HocrConverter/blob/master/HocrConverter.py) - Create a PDF from an hOCR file and an image [@jbrinley](https://github.com/jbrinley/HocrConverter)
  
 #### PAGE
- * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, and hOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
+ * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, Google CV, and hOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
  * [`xml_to_box.xsl`](https://github.com/idhmc-tamu/eMOP/blob/master/xml_to_box.xsl) - Convert PAGE XML to Tesseract box file [@eMOP](https://github.com/idhmc-tamu/eMOP)
  * [`page_to_text.py`](https://github.com/cneud/page-to-text/blob/master/page_to_text.py) - Extracts the text from a PAGE file and writes it to stdout [@cneud](https://github.com/cneud/page-to-text)
  * [`PageToPdfConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-to-pdf) - Convert PAGE XML files with layout and text content to PDF [@prima](https://github.com/PRImA-Research-Lab/prima-page-to-pdf)
  * [`page2tei-0.xsl`](https://github.com/dariok/page2tei/blob/master/page2tei-0.xsl) - Convert PAGE XML to TEI [@dariok](https://github.com/dariok/page2tei)
  * [`PageToAlto.xsl`](https://github.com/Transkribus/TranskribusCore/blob/master/src/main/resources/xslt/PageToAlto.xsl) - Convert PAGE XML to ALTO [@Transkribus](https://github.com/Transkribus)
+ * [`page-to-alto`](https://github.com/kba/page-to-alto) – Convert PAGE XML to ALTO (all versions) [@kba](https://github.com/kba/page-to-alto)
  * [`dinglehopper-extract`](https://github.com/qurator-spk/dinglehopper) - Extracts the text from ALTO and PAGE XML files [@qurator-spk](https://github.com/qurator-spk/)
  
 #### TEI
@@ -50,3 +51,6 @@ You may also want to check out the excellent [ocr-fileformat](https://github.com
 #### Other
 * [`iw2alto.xsl`](https://github.com/karkraeg/im2alto/blob/main/iw2alto.xsl) - Convert [ImageWare MyBib eL OCR](https://www.imageware.de/produkte/mybib-el-allgemein/) to ALTO [@karkraeg](https://github.com/karkraeg/im2alto)
 * [`transkribus-xslt`](https://gitlab.com/readcoop/transkribus/TranskribusCore/-/tree/master/src/main/resources/xslt) - Various stylesheets from Transkribus [@readcoop](https://gitlab.com/readcoop/)
+* [`transkribus-to-prima`](https://github.com/kba/transkribus-to-prima) – Convert Transkribus dialect to official PAGE XML format [@kba](https://github.com/kba/page-to-alto)
+* [`textract2page`](https://github.com/slub/textract2page) - Convert [Amazon AWS Textract](https://docs.aws.amazon.com/textract/latest/dg/how-it-works-document-layout.html) to PAGE XML [@slub](https://github.com/slub/textract2page)
+* [`gcv2hocr`](https://github.com/dinosauria123/gcv2hocr) – Convert [Google Cloud Vision](https://cloud.google.com/vision/docs/) to hOCR [@dinosauria123](https://github.com/dinosauria123/gcv2hocr)
