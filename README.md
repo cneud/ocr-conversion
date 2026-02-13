@@ -35,7 +35,7 @@ You may also want to check out the excellent [ocr-fileformat](https://github.com
  * [`HocrConverter.py`](https://github.com/jbrinley/HocrConverter/blob/master/HocrConverter.py) - Create a PDF from an hOCR file and an image [@jbrinley](https://github.com/jbrinley/HocrConverter)
  
 #### PAGE
- * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, Google CV, and hOCR to the latest PAGE XML format [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
+ * [`PageConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-converter) - Convert ALTO XML, FineReader XML, Google CV, and hOCR to PAGE XML [@prima](https://github.com/PRImA-Research-Lab/prima-page-converter)
  * [`xml_to_box.xsl`](https://github.com/idhmc-tamu/eMOP/blob/master/xml_to_box.xsl) - Convert PAGE XML to Tesseract box file [@eMOP](https://github.com/idhmc-tamu/eMOP)
  * [`page_to_text.py`](https://github.com/cneud/page-to-text/blob/master/page_to_text.py) - Extracts the text from a PAGE file and writes it to stdout [@cneud](https://github.com/cneud/page-to-text)
  * [`PageToPdfConverter.java`](https://github.com/PRImA-Research-Lab/prima-page-to-pdf) - Convert PAGE XML files with layout and text content to PDF [@prima](https://github.com/PRImA-Research-Lab/prima-page-to-pdf)
@@ -43,6 +43,7 @@ You may also want to check out the excellent [ocr-fileformat](https://github.com
  * [`PageToAlto.xsl`](https://github.com/Transkribus/TranskribusCore/blob/master/src/main/resources/xslt/PageToAlto.xsl) - Convert PAGE XML to ALTO [@Transkribus](https://github.com/Transkribus)
  * [`page-to-alto`](https://github.com/kba/page-to-alto) – Convert PAGE XML to ALTO (all versions) [@kba](https://github.com/kba/page-to-alto)
  * [`dinglehopper-extract`](https://github.com/qurator-spk/dinglehopper) - Extracts the text from ALTO and PAGE XML files [@qurator-spk](https://github.com/qurator-spk/)
+ * [`xmlpage_to_tei.xsl`](https://github.com/TEI4HTR/page2tei) - Transform a PAGE XML file into XML-TEI [TEI4HTR](https://github.com/TEI4HTR)
  
 #### TEI
  * [`tei2txt.xsl`](https://github.com/haoess/dta-tools/blob/master/tei2txt/share/xslt/tei2txt.xsl) - Convert DTA TEI-P5 to plain text [@haoess](https://github.com/haoess/dta-tools)
