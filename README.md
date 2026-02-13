@@ -43,7 +43,7 @@ You may also want to check out the excellent [ocr-fileformat](https://github.com
  * [`PageToAlto.xsl`](https://github.com/Transkribus/TranskribusCore/blob/master/src/main/resources/xslt/PageToAlto.xsl) - Convert PAGE XML to ALTO [@Transkribus](https://github.com/Transkribus)
  * [`page-to-alto`](https://github.com/kba/page-to-alto) – Convert PAGE XML to ALTO (all versions) [@kba](https://github.com/kba/page-to-alto)
  * [`dinglehopper-extract`](https://github.com/qurator-spk/dinglehopper) - Extracts the text from ALTO and PAGE XML files [@qurator-spk](https://github.com/qurator-spk/)
- * [`xmlpage_to_tei.xsl`](https://github.com/TEI4HTR/page2tei) - Transform a PAGE XML file into XML-TEI [TEI4HTR](https://github.com/TEI4HTR)
+ * [`xmlpage_to_tei.xsl`](https://github.com/TEI4HTR/page2tei) - Transform a PAGE XML file into XML-TEI [@TEI4HTR](https://github.com/TEI4HTR)
  
 #### TEI
  * [`tei2txt.xsl`](https://github.com/haoess/dta-tools/blob/master/tei2txt/share/xslt/tei2txt.xsl) - Convert DTA TEI-P5 to plain text [@haoess](https://github.com/haoess/dta-tools)
